@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+    <employee id="1" first_name="Chuck" last_name="Norris" active="true"/>
+    <employee id="2" first_name="Bruce" last_name="Lee" active="true"/>
+    <employee id="3" first_name="Capitão" last_name="Nascimento" active="true"/>
+</dataset>

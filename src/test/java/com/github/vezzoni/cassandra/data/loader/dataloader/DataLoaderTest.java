@@ -1,5 +1,7 @@
-package vezzoni.cassandra.data.loader.dataloader;
+package com.github.vezzoni.cassandra.data.loader.dataloader;
 
+import com.github.vezzoni.cassandra.data.loader.dataloader.DataLoader;
+import com.github.vezzoni.cassandra.data.loader.dataloader.LoadActionEnum;
 import com.datastax.driver.core.Cluster;
 import com.datastax.driver.core.ResultSet;
 import com.datastax.driver.core.Row;
@@ -10,9 +12,9 @@ import org.junit.After;
 import static org.junit.Assert.*;
 import org.junit.Before;
 import org.junit.Test;
-import vezzoni.cassandra.data.loader.dataset.DataSet;
-import vezzoni.cassandra.data.loader.dataset.xml.XmlDataSet;
-import vezzoni.cassandra.data.loader.exception.DataSetParseException;
+import com.github.vezzoni.cassandra.data.loader.dataset.DataSet;
+import com.github.vezzoni.cassandra.data.loader.dataset.xml.XmlDataSet;
+import com.github.vezzoni.cassandra.data.loader.exception.DataSetParseException;
 
 public class DataLoaderTest {
 

@@ -1,9 +1,10 @@
-package vezzoni.cassandra.data.loader.dataset.xml;
+package com.github.vezzoni.cassandra.data.loader.dataset.xml;
 
+import com.github.vezzoni.cassandra.data.loader.dataset.xml.XmlDataSet;
 import java.io.InputStream;
 import static org.junit.Assert.*;
 import org.junit.Test;
-import vezzoni.cassandra.data.loader.dataset.DataSet;
+import com.github.vezzoni.cassandra.data.loader.dataset.DataSet;
 
 public class XmlDataSetTest {
 

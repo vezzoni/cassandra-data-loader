@@ -24,12 +24,13 @@
             <organizationUrl>http://github.com/vezzoni</organizationUrl>
         </developer>
     </developers>
+
     <scm>
-        <connection>scm:git:git://github.com/vezzoni/cassandra-data-loader.git</connection>
-        <developerConnection>scm:git:ssh:github.com:vezzoni/cassandra-data-loader.git</developerConnection>
-        <url>http://github.com/vezzoni/cassandra-data-loader/tree/master</url>
+	<connection>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</connection>
+	<url>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</url>
+	<developerConnection>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</developerConnection>
     </scm>
-    
+
     <properties>
         <project.sourceEncoding>UTF-8</project.sourceEncoding>
         <java.version>1.8</java.version>

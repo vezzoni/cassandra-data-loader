@@ -12,6 +12,7 @@ nb*
 .settings/
 
 # others
+.vagrant
 .DS_Store
 *.log
 *.log.*

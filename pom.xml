@@ -18,17 +18,17 @@
         </license>
     </licenses>
 
-    <developers>
-        <developer>
+    <developers> 
+       <developer>
             <name>Roberto Vezzoni</name>
-            <organizationUrl>http://github.com/vezzoni</organizationUrl>
+            <organizationUrl>https://github.com/vezzoni</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-	<connection>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</connection>
-	<url>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</url>
-	<developerConnection>scm:git:git@github.com:vezzoni/cassandra-data-loader.git</developerConnection>
+	<url>https://github.com/vezzoni/cassandra-data-loader</url>
+	<connection>scm:git:https://github.com:vezzoni/cassandra-data-loader.git</connection>
+	<developerConnection>scm:git:https://github.com/vezzoni/cassandra-data-loader.git</developerConnection>
     </scm>
 
     <properties>
